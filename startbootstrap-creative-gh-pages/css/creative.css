@@ -42,6 +42,7 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
+
 .bg-primary {
   background-color: #F05F40;
 }
@@ -415,4 +416,55 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
+.bg-photography{
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+    background-image: url('../img/header.jpg');
+    text-align: center;
+    color: white;
+}
 
+.bg-videography{
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+    background-image: url('../img/header.jpg');
+    text-align: center;
+    color: white;
+}
+
+.bg-development{
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+    background-image: url('../img/header.jpg');
+    text-align: center;
+    color: white;
+}
+/*position: relative;*/
+/*width: 100%;*/
+/*min-height: auto;*/
+/*-webkit-background-size: cover;*/
+/*-moz-background-size: cover;*/
+/*background-size: cover;*/
+/*-o-background-size: cover;*/
+/*background-position: center;*/
+/*background-image: url('../img/header.jpg');*/
+/*text-align: center;*/
+/*color: white;*/
