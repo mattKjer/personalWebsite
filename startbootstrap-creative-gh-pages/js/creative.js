@@ -47,21 +47,44 @@
 
     // Initialize and Configure Magnific Popup Lightbox Plugin
     $('.popup-gallery').each(function () { // the containers for all your galleries
-        $("#photography-box").magnificPopup({
-            delegate: 'a',
-            type: 'image',
-            tLoading: 'Loading image #%curr%...',
-            mainClass: 'mfp-img-mobile',
+        // $("#photography-box").magnificPopup({
+        //     delegate: 'a',
+        //     type: 'image',
+        //     tLoading: 'Loading image #%curr%...',
+        //     mainClass: 'mfp-img-mobile',
+        //     gallery: {
+        //         enabled: true,
+        //         navigateByImgClick: true,
+        //         preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+        //     },
+        //     image: {
+        //         tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+        //     },
+        //     items: [
+        //         {
+        //             src: 'http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Peter_%26_Paul_fortress_in_SPB_03.jpg/800px-Peter_%26_Paul_fortress_in_SPB_03.jpg',
+        //             title: 'Peter & Paul fortress in SPB'
+        //         },
+        //         ]
+        //
+        // });
+        $('#photography-box').magnificPopup({
+            items: [
+                {
+                    src: 'http://i.imgur.com/I5hYems.png',
+                    title: 'Peter & Paul fortress in SPB',
+                },
+                {
+                    src: 'http://vimeo.com/123123',
+                    type: 'iframe' // this overrides default type
+                },
+            ],
             gallery: {
-                enabled: true,
-                navigateByImgClick: true,
-                preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+                enabled: true
             },
-            image: {
-                tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
-            }
-
+            type: 'image' // this is a default type
         });
+
         $("#videography-box").magnificPopup({
             delegate: 'a',
             type: 'iframe',
