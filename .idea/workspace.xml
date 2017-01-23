@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="443a760a-ff2f-46f1-99c6-5c3f8d65c333" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/startbootstrap-creative-gh-pages/img/portfolio/thumbnails/landscapeThumb.jpg" afterPath="$PROJECT_DIR$/startbootstrap-creative-gh-pages/img/portfolio/thumbnails/landscapeThumb.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/startbootstrap-creative-gh-pages/README.md" afterPath="$PROJECT_DIR$/startbootstrap-creative-gh-pages/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +21,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -84,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -454,11 +454,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485170736389</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated Readme - explains commits to master.">
+      <created>1485171105013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1485171105013</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17334000" />
+    <option name="totallyTimeSpent" value="17509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1734" height="1407" extended-state="0" />
@@ -499,7 +506,8 @@
     <MESSAGE value="Fixed capitalization errors with images." />
     <MESSAGE value="More capitalization errors. Not a good idea using a different version control tool before you're intimately familiar with it.." />
     <MESSAGE value="Fixed formatting bug with photography panels." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed formatting bug with photography panels." />
+    <MESSAGE value="Updated Readme - explains commits to master." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme - explains commits to master." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -986,6 +994,14 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="181" lean-forward="true" selection-start-line="15" selection-start-column="181" selection-end-line="15" selection-end-column="181" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1000,14 +1016,6 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#1;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="181" lean-forward="true" selection-start-line="15" selection-start-column="181" selection-end-line="15" selection-end-column="181" />
-          <folding />
         </state>
       </provider>
     </entry>
