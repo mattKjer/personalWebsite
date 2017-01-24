@@ -1,4 +1,7 @@
-# This website was created with a bootstrap foundation and built upon to make it something i'm proud to call my own.
+#Hi there
+
+##
+This website was created with a bootstrap foundation and built upon to make it something i'm proud to call my own.
 
 ##
 Known bugs:
